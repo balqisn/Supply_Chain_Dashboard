@@ -10,6 +10,8 @@ Revenue: 2.29M
 Net Revenue: 2.40M
 Profit: 2.23M
 
+Dashboard Overview - Supply Chain Dashboard.png
+
 🔍 Dashboard Features
 1. Product Sales & Stock Levels
 Menampilkan distribusi produk terjual dibandingkan stok yang tersedia dalam bentuk donut chart.
@@ -31,3 +33,14 @@ Grafik garis yang memperlihatkan tingkat kecacatan produk berdasarkan supplier, 
 
 🛠 Tools Used
 Power BI – Untuk visualisasi data
+
+📂 File dalam Repositori : 
+supply_chain_data.csv → File csv dari dataset. 
+supply_chain_data.xlsx → File Excel untuk cleansing.
+Supply Chain Analysis.pbix → File Power BI untuk Visualisasi.
+Data Source https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis
+
+🚀 Cara Menggunakan : 
+Download file Supply Chain Analysis.pbix 
+Buka di Power BI dan eksplorasi dashboard menggunakan slicer yang tersedia. 
+Gunakan slicer negara dan tipe produk untuk melihat detail per kategori.
