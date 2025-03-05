@@ -10,7 +10,7 @@ Revenue: 2.29M
 Net Revenue: 2.40M
 Profit: 2.23M
 
-Dashboard Overview - Supply Chain Dashboard.png
+🖼️ Dashboard Overview - Supply Chain Dashboard.png
 
 🔍 Dashboard Features
 1. Product Sales & Stock Levels
