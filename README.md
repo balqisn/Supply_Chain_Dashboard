@@ -31,6 +31,21 @@ Diagram batang yang menunjukkan jumlah produk terjual untuk masing-masing katego
 6. Defect Rate & Inspection Results
 Grafik garis yang memperlihatkan tingkat kecacatan produk berdasarkan supplier, serta jumlah inspeksi yang dilakukan.
 
+📌 Insight Utama
+Product Sales & Stock Levels 
+Dari ketiga tipe produk kita dapat mengetahui jika stok yg paling banyak dibeli adalah skincare sebanyak 92.8% dan ketersediaan stok sekita 7.2% sehingga kita dapat mengambil tindakan selanjutnya untuk menambah ketersediaan stok
+
+Revenue Overview
+Pada revenue juga terlihat jelas jika produk skincare mengahasilkan pendapatan paling tinggi yaitu 1.05M
+
+Shipping Performance Analysis
+Dari chart ini kita mengetahui bahwa dengan menggunakan Carrier A rata-rata waktu pengantaran lebih lama yaitu 6.14 dengan biaya lebih murah dibanding yang lain $156.
+Carrier B bisa menjadi opsi terbaik namun juga perlu disesuaikan dengan kebutuhan dan budget customer
+
+Defect Rate & Inspection Results
+Pada chart ini kita mengetahui supplier 5 memiliki defect rate product paling tinggi 1.59% namun inspection resultnya rendah hanya 18.
+Supplier 1 memiliki defect rate rendah 1.38% dan inspection result paling tinggi 27.
+
 🛠 Tools Used
 Power BI – Untuk visualisasi data
 
